@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  'Times New Roman', Times, serif;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgb(207, 205, 205);
+}
+li {
+    list-style: none;
+}
+
+.nav {
+    border-radius: 2px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    gap: 2rem;
+}
+
+nav ul li a {
+    color: rgb(46, 25, 25);
+    font-weight: bold;
+    text-decoration: none;
+}
+.header-container {
+    padding: 1rem 2rem;
+    background-color: rgb(255, 252, 252);
+    border-radius: 20px;
+    margin: 2rem 3rem;
+    margin-bottom: 6rem;
+    padding-right: 60px;
+}
+ 
+ 
+ 
+
+.bar{
+    display: flex;
+    justify-content: center;
+     
+}
+
+
+.pic{
+    display: flex;
+   align-items: center;
+    gap:2rem;
+}
+
+.frist{
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+
+.word{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color:  #422700;
+    font-size: 50px;
+    padding: 2rem 0 5rem 2rem;
+    margin: 0 2rem;
+}
+
+.btn{
+    height: 30px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: rgb(235, 241, 241);
+    box-shadow: 0px 0px 10px 0px rgb(236, 223, 223);
+    cursor: pointer;
+    opacity: 1;
+}
+
+.btn:hover{
+    opacity: 0,6;
+    transition: 0,3s;
+}
+.divv{
+    padding-bottom:29px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.baruu img{
+    padding: 20px;  
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.baruu{
+    display: flex;
+    justify-content: center;
+}
+
+.gambar {
+   padding:40px;
+}
+
+.gambar img{
+    height: 400px;
+    width:500px;
+    border-top-left-radius:90px ;
+    border-bottom-right-radius:90px ;
+}
+
+.word h2{
+    display: flex;
+    justify-content: center;
+    
+}
+.word p{
+    size: small;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.word{
+    font-weight: bold;
+    padding-top:30px;
+}
+
+ 
+
+.df{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    justify-content: center;
+    padding:30px;
+}
+
+.wid{
+    font-weight: bold;
+}
+
+.second{
+    background-color: rgb(207, 205, 205);
+}
+
+.all{
+    background-color:  rgb(250, 246, 246);
+}
+.alll{
+    padding:20px;
+    padding-top: 30px;
+}
+.waduh a{
+    color: rgb(233, 233, 62);
+}
+
+
+
+
+
+
