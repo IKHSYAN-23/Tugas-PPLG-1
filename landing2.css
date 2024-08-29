@@ -33,7 +33,6 @@ nav ul li a {
     padding: 1rem 2rem;
     background-color: rgb(255, 252, 252);
     border-radius: 20px;
-    margin: 2rem 3rem;
     margin-bottom: 6rem;
     padding-right: 60px;
 }
@@ -51,7 +50,7 @@ nav ul li a {
 .pic{
     display: flex;
    align-items: center;
-    gap:2rem;
+    
 }
 
 .frist{
